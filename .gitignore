@@ -1,0 +1,11 @@
+# Build outputs and release zips
+*.zip
+*.gma
+
+# Editor / OS clutter
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+desktop.ini
+.DS_Store

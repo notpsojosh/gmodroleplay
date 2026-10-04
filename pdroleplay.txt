@@ -1,0 +1,6 @@
+"pdroleplay"
+{
+    "base"    "sandbox"
+    "title"    "PD Roleplay"
+    "menusystem"    "1"
+}

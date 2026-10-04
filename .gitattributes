@@ -1,0 +1,8 @@
+* text=auto
+*.png binary
+*.jpg binary
+*.vtf binary
+*.vmt text
+*.mdl binary
+*.wav binary
+*.mp3 binary
